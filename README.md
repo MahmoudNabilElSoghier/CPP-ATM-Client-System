@@ -39,4 +39,4 @@ This application shares the same `clientData.txt` file with the [Bank Management
 
 ## 👤 Author
 #### Mahmoud Nabil El-Soghier
-[GitHub](https://github.com/MahmoudNabilElSoghier)ئ
+[GitHub](https://github.com/MahmoudNabilElSoghier)
