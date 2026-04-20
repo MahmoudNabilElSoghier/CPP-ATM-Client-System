@@ -38,5 +38,5 @@ This application shares the same `clientData.txt` file with the [Bank Management
 - Procedural programming
 
 ## 👤 Author
-**Mahmoud Nabil El-Soghier**
-[GitHub](https://github.com/MahmoudNabilElSoghier)
+#### Mahmoud Nabil El-Soghier
+[GitHub](https://github.com/MahmoudNabilElSoghier)ئ
